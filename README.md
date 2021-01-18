@@ -16,4 +16,4 @@ The code i have uploaded here is in 2 folders, one is the source code (file with
 
 4. run the Shadow of Ghosts.app file
 
-* If your mac doesnt allow you to open the file due to System Integrity Protection (blocking the file as it is downloaded from the internet), Control click/Right click on the Shadow of Ghosts.app file and then click open on the popup.
+* If your mac doesnt allow you to open the file due to System Integrity Protection (blocking the file as it is downloaded from the internet), Control click/Right click on the Shadow of Ghosts.app file and then click open and when the popup shows up click open on that too.
